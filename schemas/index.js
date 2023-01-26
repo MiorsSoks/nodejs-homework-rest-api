@@ -1,2 +1,2 @@
-const contactSchema = require("./contacts")
-module.exports = contactSchema
+const joiSchema = require("./joiSchemas")
+module.exports = joiSchema
